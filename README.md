@@ -4,6 +4,9 @@ Description: This project uses Machine Learning to predict sales based on advert
 Python, Pandas, NumPy, Scikit-learn, Plotly
 
 # Installation Instructions:
+Clone this repository.
+Install dependencies using pip install -r requirements.txt.
+Run the notebook to replicate results or explore your own predictions.
 
 # Clone this repository.
 Install dependencies using pip install -r requirements.txt.
